@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>X Power Car Accessories - الروابط</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      color: #333;
+    }
+    a {
+      display: block;
+      margin: 15px auto;
+      padding: 12px 20px;
+      width: 90%;
+      max-width: 400px;
+      text-decoration: none;
+      color: white;
+      background-color: #000;
+      border-radius: 8px;
+      transition: background-color 0.3s;
+    }
+    a:hover {
+      background-color: #444;
+    }
+  </style>
+</head>
+<body>
+  <h1>تابعنا على منصات التواصل</h1>
+
+  <a href="https://www.instagram.com/xpowercar?igsh=dWoxNTNsdGRiemJq" target="_blank">📸 إنستغرام</a>
+  <a href="https://www.facebook.com/share/1EmRq7gkTM/?mibextid=wwXIfr" target="_blank">📘 فيسبوك</a>
+  <a href="https://www.snapchat.com/add/xpowercaraccess" target="_blank">👻 سناب شات</a>
+  <a href="https://www.tiktok.com/@xpower_car_accessories?_t=ZS-8wrxaG5xTho&_r=1" target="_blank">🎵 تيك توك</a>
+  <a href="https://youtube.com/@xpowercaraccessorie?si=4bslMVcS5uacHcHL" target="_blank">▶️ يوتيوب</a>
+
+</body>
+</html>
